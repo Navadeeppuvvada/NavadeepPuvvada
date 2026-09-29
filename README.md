@@ -1,16 +1,29 @@
-## Hi there 👋
+# HI I'M NAVADEEP , 
 
-<!--
-**Navadeeppuvvada/NavadeepPuvvada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | Java & DSA Enthusiast | Web Development Learner
 
-Here are some ideas to get you started:
+I enjoy building projects, solving programming problems, and continuously improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+### Programming
+- ☕ Java
+- 🧠 Data Structures & Algorithms
+- 💡 Problem Solving
+
+### Web Development
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- ⚛️ React
+- 🟢 Node.js
+
+### Computer Science
+- 💻 Operating Systems
+- 🗄️ Database Management Systems (DBMS)
+
+### Tools
+- 🐙 Git
+- 🔗 GitHub
+- 💻 IntelliJ IDEA
+- 📝 VS Code
