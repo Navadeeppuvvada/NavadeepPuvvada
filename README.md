@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Navadeeppuvvada&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -130,8 +130,8 @@ Java
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Navadeeppuvvada&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navadeeppuvvada&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 </p>
 
 ---
@@ -139,7 +139,7 @@ Java
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=Navadeeppuvvada&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
@@ -147,7 +147,7 @@ Java
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&radius=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navadeeppuvvada&theme=tokyo-night&hide_border=true&radius=10" />
 </p>
 
 ---
@@ -168,19 +168,16 @@ Java
 # 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Navadeeppuvvada">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/navadeeppuvvada">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <b>💡 "Consistency beats talent when talent doesn't stay consistent."</b>
-</p>
 
 <p align="center">
   ⭐ If you find my projects interesting, consider giving them a star!
