@@ -111,7 +111,7 @@
 ## Activity in GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&hide_rank=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Navadeeppuvvada&show_icons=true&include_all_commits=true&hide_rank=true&theme=transparent" />
 </p>
 
 ## 🤝 Let's Connect
