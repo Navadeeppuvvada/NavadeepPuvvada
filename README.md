@@ -13,24 +13,25 @@
 
 ---
 
-## `> whoami`
+Who am I ?
 
-```text
-Navadeep Puvvada
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Navadeep+%F0%9F%91%8B;B.Tech+Student+%7C+Developer+%7C+Problem+Solver;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
+</p>
 
-🎓 B.Tech Student
-☕ Java & DSA Enthusiast
-🌐 Web Development Learner
-🧠 Problem Solver
-🚀 Builder
+<p align="center">
 
-Currently:
-→ Strengthening Java
-→ Mastering DSA
-→ Building web projects
-→ Learning React & Node.js
-```
+🎓 B.Tech Student   •  
+☕ Java & DSA Enthusiast   •  
+🌐 Web Developer in Progress
 
+<br>
+
+🧠 Problem Solver   •  
+🚀 Project Builder   •  
+📚 Lifelong Learner
+
+</p>
 ---
 
 ## ⚡ Tech Stack
@@ -59,43 +60,40 @@ Currently:
 
 ## 🧠 What I'm Working On
 
-<table>
-<tr>
-<td width="50%">
-
 ### ☕ Java & DSA
 
-```text
-Arrays
-Linked Lists
-Stacks & Queues
-Recursion
-Trees
-Hashing
-Problem Solving
-```
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arrays-1F6FEB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linked%20Lists-1F6FEB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Stacks%20%26%20Queues-1F6FEB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Recursion-1F6FEB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Trees-1F6FEB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hashing-1F6FEB?style=flat-square"/>
+</p>
 
-</td>
+> 🧠 **Focus:** Building strong programming logic, understanding DSA deeply, and improving problem-solving skills.
 
-<td width="50%">
+---
 
 ### 🌐 Web Development
 
-```text
-HTML
-CSS
-JavaScript
-React
-Node.js
-Django
-Full-Stack Development
-```
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+</p>
 
-</td>
-</tr>
-</table>
+> 🚀 **Focus:** Building interactive web applications and gradually moving toward full-stack development.
 
 ---
+
+<p align="center">
+  <b>📚 Learn → 🧠 Practice → 💻 Build → 🚀 Improve</b>
+</p>
 
 # 🚀 Projects
 
