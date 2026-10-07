@@ -1,11 +1,11 @@
 # 👋 Hey, I'm Navadeep ,
 
-🎓 B.Tech Student   
-☕ Java & DSA Enthusiast   
-🌐 Web Developer in Progress
-🧠 Problem Solver   
-🚀 Project Builder   
-📚 Lifelong Learner
+🎓 B.Tech Student<br>
+☕ Java & DSA Enthusiast<br>
+🌐 Web Developer in Progress<br>
+🧠 Problem Solver<br>
+🚀 Project Builder<br>   
+📚 Lifelong Learner<br>
 
 
 ---
