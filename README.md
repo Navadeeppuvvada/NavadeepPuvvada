@@ -2,10 +2,10 @@
 
 🎓 B.Tech Student<br>
 ☕ Java & DSA Enthusiast<br>
-🌐 Web Developer in Progress<br>
+🌐 FrontEnd Developer<br>
 🧠 Problem Solver<br>
 🚀 Project Builder<br>   
-📚 Lifelong Learner<br>
+
 
 
 ---
