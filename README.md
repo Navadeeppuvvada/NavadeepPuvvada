@@ -1,78 +1,107 @@
-# 👋 Hi, I'm Navadeep
-
-### 🎓 B.Tech Student | ☕ Java & DSA | 🌐 Web Development
+# 👋 Hey, I'm Navadeep
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+%26+DSA+Enthusiast;Web+Development+Learner;Problem+Solver;Building+Projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+%7C+DSA+%7C+Web+Development;Building+%E2%80%A2+Learning+%E2%80%A2+Solving;Turning+ideas+into+projects+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Navadeeppuvvada&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/Navadeeppuvvada">
+    <img src="https://img.shields.io/github/followers/Navadeeppuvvada?style=flat&logo=github&label=Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Navadeeppuvvada&style=flat&label=Profile%20Views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## `> whoami`
 
-I'm a B.Tech student passionate about **programming, problem solving, and web development**.
+```text
+Navadeep Puvvada
 
-I enjoy learning how things work internally, solving programming challenges, and turning ideas into practical projects.
+🎓 B.Tech Student
+☕ Java & DSA Enthusiast
+🌐 Web Development Learner
+🧠 Problem Solver
+🚀 Builder
 
-- ☕ Currently focusing on **Java & Data Structures**
-- 🧠 Practicing **DSA & Problem Solving**
-- 🌐 Learning **React & Node.js**
-- 💻 Exploring **Operating Systems & DBMS**
-- 🚀 Building projects to improve my development skills
-- 📚 Continuously learning and improving
+Currently:
+→ Strengthening Java
+→ Mastering DSA
+→ Building web projects
+→ Learning React & Node.js
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,js" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,django" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 What I'm Working On
 
-### 💻 Programming & DSA
+<table>
+<tr>
+<td width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
+### ☕ Java & DSA
 
-**Data Structures:** Arrays • Linked Lists • Stacks • Queues • Recursion • Trees • Hashing
+```text
+Arrays
+Linked Lists
+Stacks & Queues
+Recursion
+Trees
+Hashing
+Problem Solving
+```
 
----
+</td>
+
+<td width="50%">
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
-</p>
+```text
+HTML
+CSS
+JavaScript
+React
+Node.js
+Django
+Full-Stack Development
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🗄️ Computer Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-**Currently studying:**  
-`Operating Systems` • `DBMS` • `Computer Networks` • `Data Structures & Algorithms`
-
----
-
-### 🛠️ Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,netlify" />
-</p>
-
----
-
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ### 🎓 Student Hub
 
-A student-focused web platform that provides a centralized place to manage academic resources, subjects, assignments, attendance, timetable, and study materials.
-
-**Tech Stack**
+> A centralized academic platform for students to manage resources, subjects, assignments, attendance, timetable and study materials.
 
 `HTML` `CSS` `JavaScript`
 
@@ -80,105 +109,49 @@ A student-focused web platform that provides a centralized place to manage acade
 
 ### 🧠 IQ Arena
 
-An interactive platform designed to help users practice and improve their logical reasoning and problem-solving skills through engaging quizzes and challenges.
-
-**Tech Stack**
+> An interactive platform for improving logical reasoning and problem-solving through quizzes and challenges.
 
 `HTML` `CSS` `JavaScript` `Django`
 
 ---
 
-### 🏫 Smart College Portal System
+### 🏫 Smart College Portal
 
-A smart college management platform designed to connect students, faculty, and college resources through a modern web-based portal.
-
-**Tech Stack**
+> A modern college management platform connecting students, faculty and academic resources.
 
 `HTML` `CSS` `React` `Node.js`
 
 ---
 
-# 🧠 My Current Learning Journey
-
-```text
-Java
-  │
-  ├── OOP
-  ├── Collections
-  ├── Exception Handling
-  └── Advanced Java
-        │
-        ▼
-      DSA
-        │
-        ├── Arrays
-        ├── Linked Lists
-        ├── Stacks & Queues
-        ├── Recursion
-        ├── Trees
-        └── Graphs
-              │
-              ▼
-        Problem Solving
-              │
-              ▼
-         LeetCode 🚀
-```
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navadeeppuvvada&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navadeeppuvvada&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Navadeeppuvvada&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navadeeppuvvada&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Navadeeppuvvada&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Navadeeppuvvada&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<a href="https://github.com/Navadeeppuvvada">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/navadeeppuvvada">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navadeeppuvvada&theme=tokyo-night&hide_border=true&radius=10" />
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- [ ] Become strong in Java
-- [ ] Master DSA
-- [ ] Solve more LeetCode problems
-- [ ] Build full-stack applications
-- [ ] Improve React & Node.js skills
-- [ ] Strengthen OS & DBMS fundamentals
-- [ ] Contribute to open-source projects
-- [ ] Build more real-world projects
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Navadeeppuvvada">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/navadeeppuvvada">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-
-<p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
+  <i>Building my skills one problem, one project, and one commit at a time.</i>
 </p>
