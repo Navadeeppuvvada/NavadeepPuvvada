@@ -4,7 +4,7 @@
 
 # ⚡ NAVADEEP
 
-### `B.Tech Student` · `Java Developer` · `DSA Learner` · `Frontend Developer`
+### `B.Tech Student` · `DSA Learner` · `Frontend Developer`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+%3Ccode%3E+%26+solving+problems;Learning+Java+%2B+DSA+deeply;Turning+ideas+into+real+projects;One+problem.+One+project.+One+commit." />
 
@@ -27,36 +27,6 @@
 
 <!-- ===================== TERMINAL ===================== -->
 
-## 🖥️ `whoami`
-
-```bash
-┌──(navadeep㉿github)-[~/developer]
-└─$ whoami
-
-Navadeep
-
-┌──(navadeep㉿github)-[~/developer]
-└─$ cat about.txt
-
-🎓 B.Tech Student
-☕ Java & DSA Enthusiast
-🌐 Frontend Developer
-🧠 Problem Solver
-🚀 Project Builder
-
-Currently focused on becoming a better programmer
-by understanding concepts deeply, solving problems,
-and building real-world applications.
-
-┌──(navadeep㉿github)-[~/developer]
-└─$ status
-
-[████████████████░░░░] LEARNING
-[██████████████░░░░░░] BUILDING
-[████████████░░░░░░░░] IMPROVING
-```
-
----
 
 # ⚙️ `tech --stack`
 
@@ -85,78 +55,6 @@ and building real-world applications.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 
 </div>
-
----
-
-# 🧠 `current.focus()`
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ☕ JAVA + DSA
-
-```text
-┌──────────────────────────────┐
-│       CURRENT TRACK          │
-├──────────────────────────────┤
-│                              │
-│  ✓ Arrays                    │
-│  ✓ Linked Lists              │
-│  ✓ Stack & Queues            │
-│  ✓ Hashing                   │
-│  ✓ Recursion                 │
-│  → Trees                     │
-│  → Binary Search Trees       │
-│  → Graphs                    │
-│                              │
-└──────────────────────────────┘
-```
-
-**Mission**
-
-> Don't memorize the solution.  
-> Understand the logic behind it.
-
-**Focus**
-
-`Logic` · `Patterns` · `Efficiency` · `Problem Solving`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 WEB DEVELOPMENT
-
-```text
-┌──────────────────────────────┐
-│       CURRENT TRACK          │
-├──────────────────────────────┤
-│                              │
-│  ✓ HTML                      │
-│  ✓ CSS                       │
-│  ✓ JavaScript                │
-│  → React                     │
-│  → Node.js                   │
-│  → Full Stack                │
-│                              │
-└──────────────────────────────┘
-```
-
-**Mission**
-
-> Turn ideas into useful  
-> and interactive applications.
-
-**Focus**
-
-`Frontend` · `React` · `Backend` · `Projects`
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -237,27 +135,6 @@ A modern platform designed to connect students, faculty and academic resources.
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
----
-
-# 🎯 `mission --2026`
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                    2026 ROADMAP                      ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  [✓] Strengthen Java fundamentals                   ║
-║  [✓] Learn DSA deeply                                ║
-║  [→] Master Trees & BST                              ║
-║  [→] Solve more LeetCode problems                    ║
-║  [→] Improve React                                   ║
-║  [ ] Learn Node.js deeply                             ║
-║  [ ] Build full-stack applications                   ║
-║  [ ] Contribute to Open Source                       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
 
 ---
 
