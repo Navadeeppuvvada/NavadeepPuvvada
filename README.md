@@ -6,7 +6,6 @@
 </p>
 
 <br>
-
 # ⚡ NAVADEEP
 
 ### `B.Tech Student` · `DSA Learner` · `Frontend Developer`
