@@ -140,53 +140,6 @@ A modern platform designed to connect students, faculty and academic resources.
 
 ---
 
-# 🧩 `developer --mindset`
-
-<div align="center">
-
-### UNDERSTAND
-`↓`
-
-### PRACTICE
-`↓`
-
-### BREAK
-`↓`
-
-### DEBUG
-`↓`
-
-### BUILD
-`↓`
-
-### IMPROVE
-`↓`
-
-### REPEAT 🔁
-
-</div>
-
----
-
-# 📈 `learning.stats`
-
-<div align="center">
-
-| Area | Status |
-| :--- | :---: |
-| ☕ Java | 🟢 Learning |
-| 🧠 DSA | 🟢 Active |
-| 🌐 HTML/CSS | 🟢 Comfortable |
-| ⚡ JavaScript | 🟡 Improving |
-| ⚛️ React | 🟡 Learning |
-| 🟢 Node.js | 🟡 Learning |
-| 🐍 Django | 🟡 Learning |
-| 🚀 Projects | 🟢 Building |
-
-</div>
-
----
-
 # 🤝 `connect --with-me`
 
 <div align="center">
