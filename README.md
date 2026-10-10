@@ -1,22 +1,37 @@
 <!-- ===================== HERO ===================== -->
 
 <div align="center">
+
 <p align="center">
   <img src="./banner.png" width="100%" alt="Navadeep Developer Banner">
 </p>
 
 <br>
 
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+%3Ccode%3E+%26+solving+problems;Learning+Java+%2B+DSA+deeply;Turning+ideas+into+real+projects;One+problem.+One+project.+One+commit." />
 
-<br>
+<br><br>
+
+<!-- ===================== SOCIAL BUTTONS ===================== -->
 
 <a href="https://github.com/Navadeeppuvvada">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/navadeeppuvvada">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/NAVAD_097/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/pnavad2na2">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://navadeepportfolioo.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 <br><br>
@@ -28,7 +43,6 @@
 ---
 
 <!-- ===================== TERMINAL ===================== -->
-
 
 # ⚙️ `tech --stack`
 
@@ -145,11 +159,23 @@ A modern platform designed to connect students, faculty and academic resources.
 <div align="center">
 
 <a href="https://github.com/Navadeeppuvvada">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/navadeeppuvvada">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/NAVAD_097/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/pnavad2na2">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://navadeepportfolioo.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 <br><br>
