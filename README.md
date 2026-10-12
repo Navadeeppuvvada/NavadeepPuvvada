@@ -147,9 +147,10 @@ A modern platform designed to connect students, faculty and academic resources.
 ## 📊 GitHub Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Navadeeppuvvada&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Activity"
-    width="100%"
+  <img 
+    src="https://ghchart.rshah.org/Navadeeppuvvada"
+    alt="GitHub Contribution Chart"
+    width="95%"
   />
 </p>
 
