@@ -144,15 +144,14 @@ A modern platform designed to connect students, faculty and academic resources.
 
 ---
 
-# 🐍 `contribution.exe`
+## 📊 GitHub Contribution Activity
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Navadeeppuvvada&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Activity"
+    width="100%"
+  />
+</p>
 
 # 🤝 `connect --with-me`
 
