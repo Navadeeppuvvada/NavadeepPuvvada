@@ -144,16 +144,27 @@ A modern platform designed to connect students, faculty and academic resources.
 
 ---
 
-## 📊 GitHub Contribution Activity
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
-  <img 
-    src="https://ghchart.rshah.org/Navadeeppuvvada"
-    alt="GitHub Contribution Chart"
-    width="95%"
-  />
+  Watch my contributions get eaten by the snake!
 </p>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Navadeeppuvvada/Navadeeppuvvada/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Navadeeppuvvada/Navadeeppuvvada/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/Navadeeppuvvada/Navadeeppuvvada/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
 # 🤝 `connect --with-me`
 
 <div align="center">
