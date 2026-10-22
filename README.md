@@ -3,9 +3,14 @@
 <div align="center">
 
 # I'm Navadeep 
-
+<br>
 ### B.Tech Student · Java & DSA · Web Development
+<br>
 
+
+<img src="https://komarev.com/ghpvc/?username=Navadeeppuvvada&label=PROFILE+VIEWS&color=38BDF8&style=flat-square" alt="Profile view counter"/>
+
+<br/><br>
 
 <br/>
 
@@ -68,34 +73,56 @@ I'm a B.Tech student passionate about software development, problem-solving, and
 
 ## `$ ls ./projects`
 
-### 🎓 Student Hub
+<div align="center">
 
-**A centralized academic resource platform for students.**
+### 🚀 Featured Projects
 
-Built to organize student resources and make academic information easier to access.
+*Ideas turned into applications.*
 
-`HTML` `CSS` `JavaScript`
-
-[View Project](https://studentshubklu.netlify.app/)
-
-### 🧠 IQ Arena
-
-**An interactive logic and reasoning project.**
-
-A project focused on quizzes, logical reasoning, and problem-solving challenges.
-
-`HTML` `CSS` `JavaScript` `Django`
-
-### 🏫 Smart College Portal
-
-**A college portal development project.**
-
-Exploring modern web technologies to build a platform for college-related information and workflows.
-
-`React` `Node.js` `HTML` `CSS`
+</div>
 
 ---
 
+### 🎓 Student Hub
+**Academic Resource Management Platform**
+
+A centralized platform designed to help students organize and access their academic resources in one place.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 **[Live Demo →](https://studentshubklu.netlify.app/)**
+
+---
+
+### 🧠 IQ Arena
+**Interactive Quiz & Reasoning Platform**
+
+An engaging platform focused on quizzes, logical reasoning, and problem-solving challenges.
+
+`HTML` `CSS` `JavaScript` `Django`
+
+🔗 **[Live Demo →](https://iqarenaa.netlify.app/)**
+
+---
+
+### 🏫 Smart College Portal
+**College Management Web Application**
+
+A web development project exploring modern technologies for organizing college-related information and workflows.
+
+`React` `Node.js` `HTML` `CSS`
+
+🔧 **In Development**
+
+---
+
+<div align="center">
+
+**Building useful things, one project at a time.** ⚡
+
+</div>
+
+---
 ## `$ github --stats`
 
 <div align="center">
