@@ -13,8 +13,7 @@
 ---
 
 ## 💻 TECH STACK
-
-
+<br>
 ### 💡 Programming Languages
 
 <p align="center">
@@ -39,12 +38,21 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA">
 </p>
+<br>
 
 ---
 ## 🚀 Featured Projects
-
+<br>
 <table>
   <tr>
+      <td align="center" width="33%" valign="top">
+      <h3>🧠 IQ Arena</h3>
+      <p>An interactive project focused on quizzes, logical thinking, and problem-solving.</p>
+      <p><strong>Tech Stack</strong><br>HTML · CSS · JavaScript · Django</p>
+      <a href="https://iqarenaa.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00D9F5?style=for-the-badge&logo=netlify&logoColor=0D1117" alt="Live Demo"></a>
+      <br><br>
+      <a href="https://github.com/Navadeeppuvvada"><img src="https://img.shields.io/badge/SOURCE_CODE-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Source Code"></a>
+    </td>
     <td align="center" width="33%" valign="top">
       <h3>🎓 Student Hub</h3>
       <p>A centralized platform for students to access and organize academic resources.</p>
@@ -54,19 +62,11 @@
       <a href="https://github.com/Navadeeppuvvada"><img src="https://img.shields.io/badge/SOURCE_CODE-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Source Code"></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <h3>🧠 IQ Arena</h3>
-      <p>An interactive project focused on quizzes, logical thinking, and problem-solving.</p>
-      <p><strong>Tech Stack</strong><br>HTML · CSS · JavaScript · Django</p>
-      <a href="https://iqarenaa.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00D9F5?style=for-the-badge&logo=netlify&logoColor=0D1117" alt="Live Demo"></a>
-      <br><br>
-      <a href="https://github.com/Navadeeppuvvada"><img src="https://img.shields.io/badge/SOURCE_CODE-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Source Code"></a>
-    </td>
-    <td align="center" width="33%" valign="top">
       <h3>🏫 Smart College Portal</h3>
       <p>A college portal concept bringing academic information and student services together.</p>
       <p><strong>Tech Stack</strong><br>React · Node.js</p>
-      <br>
-      <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-00D9F5?style=for-the-badge&labelColor=21262D" alt="In Development">
+      <img src="https://img.shields.io/badge/IN_DEVELOPMENT-00D9F5?style=for-the-badge&labelColor=21262D" alt="In Development"> <br><br>
+      <a href="https://github.com/Navadeeppuvvada"><img src="https://img.shields.io/badge/SOURCE_CODE-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Source Code"></a>
     </td>
   </tr>
 </table>
