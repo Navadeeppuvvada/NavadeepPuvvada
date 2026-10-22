@@ -1,162 +1,89 @@
-<!-- ==================== NAVadeep | GITHUB PROFILE ==================== -->
+![Header](https://capsule-render.vercel.app/api?type=rect&height=190&color=0D1117&text=Navadeep&fontColor=00E5FF&fontSize=58&fontAlign=60&fontAlignY=50&desc=Java%20%7C%20DSA%20%7C%20Frontend%20Developer&descSize=17&descAlign=60&descAlignY=75&descColor=C9D1D9)
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Navadeeppuvvada"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/navadeeppuvvada"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/NAVAD_097/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00E5FF" alt="LeetCode"></a>
+  <a href="https://navadeepportfolioo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00E5FF" alt="Portfolio"></a>
+</p>
 
-# I'm Navadeep 
-<br>
-### B.Tech Student · Java & DSA · Web Development
-<br>
+<h3 align="center">Building ideas into projects. Strengthening logic through code.</h3>
+
+---
+---
+
+## 💻 TECH STACK
 
 
-<img src="https://komarev.com/ghpvc/?username=Navadeeppuvvada&label=PROFILE+VIEWS&color=38BDF8&style=flat-square" alt="Profile view counter"/>
+### 💡 Programming Languages
 
-<br/><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python&theme=dark" alt="C, Java, Python">
+</p>
 
-<br/>
 
-<a href="https://github.com/Navadeeppuvvada">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/navadeeppuvvada">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/u/NAVAD_097/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://navadeepportfolioo.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
+### 🎨 Frontend Development
 
-<br/><br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript, React">
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Java+%26+Data+Structures;Problem+Solving+%26+Logical+Thinking;Frontend+%26+Full-Stack+Development;Turning+Ideas+Into+Projects" alt="Developer interests"/>
+### ⚙️ Backend Development
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,django&theme=dark" alt="Node.js, Django">
+</p>
+
+### 🛠️ Tools & Development Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA">
+</p>
+
+---
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>🎓 Student Hub</h3>
+      <p>A centralized platform for students to access and organize academic resources.</p>
+      <p><strong>Tech Stack</strong><br>HTML · CSS · JavaScript</p>
+      <a href="https://studentshubklu.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00D9F5?style=for-the-badge&logo=netlify&logoColor=0D1117" alt="Live Demo"></a>
+      <br><br>
+      <a href="https://github.com/Navadeeppuvvada"><img src="https://img.shields.io/badge/SOURCE_CODE-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Source Code"></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🧠 IQ Arena</h3>
+      <p>An interactive project focused on quizzes, logical thinking, and problem-solving.</p>
+      <p><strong>Tech Stack</strong><br>HTML · CSS · JavaScript · Django</p>
+      <a href="https://iqarenaa.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00D9F5?style=for-the-badge&logo=netlify&logoColor=0D1117" alt="Live Demo"></a>
+      <br><br>
+      <a href="https://github.com/Navadeeppuvvada"><img src="https://img.shields.io/badge/SOURCE_CODE-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Source Code"></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🏫 Smart College Portal</h3>
+      <p>A college portal concept bringing academic information and student services together.</p>
+      <p><strong>Tech Stack</strong><br>React · Node.js</p>
+      <br>
+      <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-00D9F5?style=for-the-badge&labelColor=21262D" alt="In Development">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## `$ whoami`
+## 📊 GitHub Statistics
 
-I'm a B.Tech student passionate about software development, problem-solving, and building useful applications.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Navadeeppuvvada&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&rank_icon=github" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navadeeppuvvada&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages" width="49%">
+</p>
 
-- 💻 Strengthening my **Java and Data Structures & Algorithms** fundamentals.
-- 🌐 Exploring **frontend and full-stack web development**.
-- 🧠 Focused on understanding concepts, not just memorizing solutions.
-- 🚀 Building projects to turn what I learn into practical experience.
-- 📈 Improving one problem, one project, and one commit at a time.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" alt="">
+</p>
 
----
-
-## `$ tech --stack`
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,js&theme=dark" alt="Java and JavaScript"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML, CSS, and React"/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,django&theme=dark" alt="Node.js and Django"/>
-
-**Developer Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Git, GitHub, Visual Studio Code, and IntelliJ IDEA"/>
-
-</div>
-
----
-
-## `$ ls ./projects`
-
-<div align="center">
-
-### 🚀 Featured Projects
-
-*Ideas turned into applications.*
-
-</div>
-
----
-
-### 🎓 Student Hub
-**Academic Resource Management Platform**
-
-A centralized platform designed to help students organize and access their academic resources in one place.
-
-`HTML` `CSS` `JavaScript`
-
-🔗 **[Live Demo →](https://studentshubklu.netlify.app/)**
-
----
-
-### 🧠 IQ Arena
-**Interactive Quiz & Reasoning Platform**
-
-An engaging platform focused on quizzes, logical reasoning, and problem-solving challenges.
-
-`HTML` `CSS` `JavaScript` `Django`
-
-🔗 **[Live Demo →](https://iqarenaa.netlify.app/)**
-
----
-
-### 🏫 Smart College Portal
-**College Management Web Application**
-
-A web development project exploring modern technologies for organizing college-related information and workflows.
-
-`React` `Node.js` `HTML` `CSS`
-
-🔧 **In Development**
-
----
-
-<div align="center">
-
-**Building useful things, one project at a time.** ⚡
-
-</div>
-
----
-## `$ github --stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Navadeeppuvvada&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navadeeppuvvada&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Navadeeppuvvada&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## `$ connect`
-
-<div align="center">
-
-**Interested in coding, collaboration, and building cool things.**
-
-[GitHub](https://github.com/Navadeeppuvvada) ·
-[LinkedIn](https://www.linkedin.com/in/navadeeppuvvada) ·
-[LeetCode](https://leetcode.com/u/NAVAD_097/) ·
-[GeeksforGeeks](https://www.geeksforgeeks.org/profile/pnavad2na2) ·
-[Portfolio](https://navadeepportfolioo.netlify.app/)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Navadeeppuvvada&label=PROFILE+VIEWS&color=38BDF8&style=flat-square" alt="Profile view counter"/>
-
-<br/><br/>
-
-*Building today. Getting better tomorrow.*
-
-</div>
+<p align="center">
+  <i>Learn consistently. Build meaningfully. Improve every day.</i>
+</p>
