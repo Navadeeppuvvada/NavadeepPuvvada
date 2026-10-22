@@ -77,13 +77,26 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Navadeeppuvvada&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&rank_icon=github" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navadeeppuvvada&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navadeeppuvvada&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages" width="49%">
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" alt="">
 </p>
+<br>
+---
+<br>
+## 🐍 GitHub Contribution Snake
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Navadeeppuvvada/Navadeeppuvvada/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Navadeeppuvvada/Navadeeppuvvada/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Navadeeppuvvada/Navadeeppuvvada/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
 <p align="center">
   <i>Learn consistently. Build meaningfully. Improve every day.</i>
 </p>
