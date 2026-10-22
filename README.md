@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&height=190&color=0D1117&text=Navadeep&fontColor=00E5FF&fontSize=58&fontAlign=60&fontAlignY=50&desc=Java%20%7C%20DSA%20%7C%20Frontend%20Developer&descSize=17&descAlign=60&descAlignY=75&descColor=C9D1D9)
+![Header](https://capsule-render.vercel.app/api?type=rect&height=190&&textAlign=50&color=0D1117&text=Navadeep&fontColor=00E5FF&fontSize=58&fontAlignY=50&desc=Java%20%7C%20DSA%20%7C%20Frontend%20Developer&descSize=17&descAlignY=80&descColor=C9D1D9)
 
 <p align="center">
   <a href="https://github.com/Navadeeppuvvada"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"></a>
