@@ -2,12 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/Navadeeppuvvada"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/navadeeppuvvada"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/navadeeppuvvada"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logoColor=00E5FF&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwRTVGRiIgZD0iTTIwLjQ0NyAyMEgxNi45MTR2LTUuNTY0YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5VjIwSDkuMzkzVjkuMDAxaDMuMzkzVjEwLjVjLjQ5LS45MjkgMS42NzMtMS45MDggMy40NTItMS45MDggMy42OSAwIDQuMzY5IDIuNDI5IDQuMzY5IDUuNTg4VjIwek01LjM3NyA3LjQzM2EyLjA2IDIgMCAxIDEgMC00LjEyIDIgMiAwIDAgMSAwIDQuMTJ6TTcuMTQzIDIwSDMuNjE2VjloMy41Mjd6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzEgMCAxLjcyOXYyMC41NDJDMC4wMDIgMjMuMjI4Ljc5MyAyNCAxLjc3MSAyNGgyMC40NTJDMjMuMjAxIDI0IDI0IDIzLjIyOCAyNCAyMi4yNzFWMS43MjlDMjQgLjc3MSAyMy4yMDEgMCAyMi4yMjUgMHoiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
   <a href="https://leetcode.com/u/NAVAD_097/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00E5FF" alt="LeetCode"></a>
+  <a href="https://www.geeksforgeeks.org/profile/navadeeppuvvada"><img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=00E5FF" alt="GeeksforGeeks"></a>
   <a href="https://navadeepportfolioo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00E5FF" alt="Portfolio"></a>
 </p>
 
-<h3 align="center">Building ideas into projects. Strengthening logic through code.</h3>
+<h3 align="center">Building ideas into projects and strengthening logic through code</h3>
 
 ---
 ---
