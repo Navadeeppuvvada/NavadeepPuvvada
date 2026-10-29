@@ -72,20 +72,36 @@
   </tr>
 </table>
 
+
 ---
 
-## 📊 GitHub Statistics
+
+<!-- ==================== GITHUB DASHBOARD ==================== -->
+
+<h2 align="center">📊 GitHub Analytics Dashboard</h2>
+
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navadeeppuvvada&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&rank_icon=github" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navadeeppuvvada&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages" width="49%">
+  <a href="https://github.com/Navadeeppuvvada">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=Navadeeppuvvada&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&rank_icon=github"
+      alt="GitHub Statistics"
+      width="70%"
+    />
+  </a>
 </p>
 
+<h2 align="center">🔥 Contribution Streak</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" alt="">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navadeeppuvvada&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" width="75%" />
 </p>
-<br>
----
+
+
+
+<!-- ================== END GITHUB DASHBOARD ================== -->
+
 <br>
 ## 🐍 GitHub Contribution Snake
 
