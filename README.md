@@ -59,7 +59,7 @@
       <h3>🎓 Student Hub</h3>
       <p>A centralized platform for students to access and organize academic resources.</p>
       <p><strong>Tech Stack</strong><br>HTML · CSS · JavaScript</p>
-      <a href="https://studentshubklu.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00D9F5?style=for-the-badge&logo=netlify&logoColor=0D1117" alt="Live Demo"></a>
+      <a href="https://studentsshub.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00D9F5?style=for-the-badge&logo=netlify&logoColor=0D1117" alt="Live Demo"></a>
       <br><br>
       <a href="https://github.com/Navadeeppuvvada"><img src="https://img.shields.io/badge/SOURCE_CODE-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Source Code"></a>
     </td>
