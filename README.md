@@ -16,7 +16,7 @@
 
 ## 💻 TECH STACK
 <br>
-### 💡 Programming Languages
+### 💡Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python&theme=dark" alt="C, Java, Python">
